@@ -14,7 +14,7 @@ This dataset represents beneficiaries of Qurrah Program
 > The dataset is downloaded from Saudi Open Data portal website: [https://www.citibikenyc.com/system-data](https://od.data.gov.sa/Data/en/dataset/qurrah-beneficiaries)
 
 
-<img src="[relative/path/in/repository/to/image.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fqurrahdaycare.com.sa%2Far%2Fblog-ar%2F3&psig=AOvVaw0z1kWmt-gnGAai40CtvdZz&ust=1712106449567000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjXntqrooUDFQAAAAAdAAAAABAE)" width="128"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fajel.sa%2Flocal%2Fdm4jpg&psig=AOvVaw1Zje9NH8FqLkbTrY2LSo-R&ust=1712106518490000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKiQ2_mrooUDFQAAAAAdAAAAABAE" width="128"/>
 
 
 
