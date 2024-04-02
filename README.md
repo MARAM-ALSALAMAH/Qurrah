@@ -15,7 +15,7 @@ This dataset represents beneficiaries of Qurrah Program
 
 
 
-<img src="[a.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmahally.com%2Fproducts%2F2096634059%2F797022248&psig=AOvVaw0R8a2DLPxES6HUWimiTqt-&ust=1712106658276000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjvmbysooUDFQAAAAAdAAAAABAJ)" alt="J" width="200"/>
+<img src="[a.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmahally.com%2Fproducts%2F2096634059%2F797022248&psig=AOvVaw0R8a2DLPxES6HUWimiTqt-&ust=1712106658276000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjvmbysooUDFQAAAAAdAAAAABAJ)">
 
 ## **Generate Questions**
 
