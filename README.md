@@ -13,7 +13,7 @@ This dataset represents beneficiaries of Qurrah Program
 >  Please note that the data file needs to be uploaded to Colab by dragging it from the usecase directory to the Colab file directory for further analysis.
 > The dataset is downloaded from Saudi Open Data portal website: [https://www.citibikenyc.com/system-data](https://od.data.gov.sa/Data/en/dataset/qurrah-beneficiaries)
 
-
+![Alt text]([image link](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftakamolholding.com%2Fen%2Fqurrah%2F&psig=AOvVaw3uyXvCKYrLayTm2VT228fY&ust=1712106226185000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDDnu6qooUDFQAAAAAdAAAAABAE))
 
 ## **Generate Questions**
 
